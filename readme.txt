@@ -30,7 +30,7 @@ Because it uses the feature `theme customizer` that was first embeded in WP 3.4.
 == Screenshots ==
 
 1. Customizer panel
-2. Apperance menu - with the customizer link
+2. Appearance menu - with the customizer link
 
 == Changelog ==
 
